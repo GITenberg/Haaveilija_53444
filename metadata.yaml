@@ -1,0 +1,38 @@
+_repo: Haaveilija_53444
+_version: 0.0.1
+alternative_title: Sværmere. Finnish
+contributor:
+  translator:
+    agent_name: Cederberg, Eino
+    gutenberg_agent_id: '47377'
+    url: http://www.gutenberg.org/2009/agents/47377
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Hamsund, Knut Pedersen
+    - Pedersen, Knut
+    - Gamsun, Knut
+    - Thode, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2016-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53444'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Norwegian fiction -- Translations into Finnish'
+- !lcsh 'Humorous stories'
+- GITenberg
+title: Haaveilija
+url: http://www.gutenberg.org/ebooks/53444
